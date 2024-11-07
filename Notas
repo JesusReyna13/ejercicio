@@ -1,0 +1,8 @@
+El proyecto esta realizado en React.
+
+Se utulizo Node para poder controlar las peticiones, se creo una carpeta llamada Server en el cual se almacena 
+Node (archivos y modulos).
+
+Se anexa la base de datos, se utilizo mysql.
+
+se utilizaron los puertos 3001 para las peticiones.
